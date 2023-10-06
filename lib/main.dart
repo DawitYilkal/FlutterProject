@@ -12,7 +12,11 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+
   final int a = 67;
+
+  final int david = 89;
+
   @override
   Widget build(BuildContext context) {
     return const Placeholder();
